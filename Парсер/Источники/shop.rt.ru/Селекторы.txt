@@ -1,0 +1,5 @@
+.products__item-mobile
+.products__item-title
+.products__item-title a
+.products__item-price-value
+img.products__item-image

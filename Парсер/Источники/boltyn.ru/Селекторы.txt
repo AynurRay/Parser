@@ -1,0 +1,5 @@
+.product
+.name
+.name a
+.price.left
+.thumb img

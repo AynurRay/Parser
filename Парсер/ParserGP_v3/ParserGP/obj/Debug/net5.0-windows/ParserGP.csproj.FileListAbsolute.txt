@@ -1,0 +1,219 @@
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.exe
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.deps.json
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.json
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.dev.json
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\HtmlAgilityPack.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.Core.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\en\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.Form1.resources
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.GenerateResource.cache
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfo.cs
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CopyComplete
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.genruntimeconfig.cache
+C:\Users\aynur\Desktop\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.Form1.resources
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.GenerateResource.cache
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfo.cs
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.exe
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.deps.json
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.json
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.dev.json
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\HtmlAgilityPack.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.Core.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\en\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CopyComplete
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.genruntimeconfig.cache
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\работа с бд\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.exe
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.deps.json
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.json
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.dev.json
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\HtmlAgilityPack.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.Core.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\en\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.Form1.resources
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.GenerateResource.cache
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfo.cs
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CopyComplete
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\5v3\5\ParserGP\ParserGP\obj\Debug\net5.0-windows\ParserGP.genruntimeconfig.cache
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.exe
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.deps.json
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.json
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.dev.json
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\HtmlAgilityPack.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.Core.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\en\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.Form1.resources
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.GenerateResource.cache
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfo.cs
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CopyComplete
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.genruntimeconfig.cache
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.exe
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.deps.json
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.json
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.runtimeconfig.dev.json
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\FSharp.Core.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\HtmlAgilityPack.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.Core.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ScrapySharp.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\de\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\en\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\es\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\it\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.Form1.resources
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.GenerateResource.cache
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.AssemblyInfo.cs
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.csproj.CopyComplete
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ref\ParserGP.dll
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.pdb
+C:\Users\aynur\Desktop\shop.rt.ru\ParserGP_v3\ParserGP\obj\Debug\net5.0-windows\ParserGP.genruntimeconfig.cache
